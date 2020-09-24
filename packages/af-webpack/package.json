@@ -55,7 +55,7 @@
     "typescript": "^3.0.1",
     "url-loader": "^1.0.1",
     "webpack": "4.19.0",
-    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-bundle-analyzer": "^3.9.0",
     "webpack-chain": "^4.8.0",
     "webpack-dev-server": "3.1.5",
     "webpack-manifest-plugin": "^2.0.3",
